@@ -1,0 +1,16 @@
+# Secrets and machine-specific files
+.env
+.env.*
+!.env.example
+**/secrets.*
+*.key
+*.pfx
+*.pem
+**/node_modules/
+**/bin/
+**/obj/
+**/.venv/
+**/dist/
+**/coverage/
+.DS_Store
+__pycache__/

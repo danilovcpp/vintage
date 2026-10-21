@@ -1,0 +1,3 @@
+# Copy to Codex: Architecture workshop
+
+Спроектируй архитектуру по `$architecture-design` на базе актуальной утверждённой SRS. Привлеки solution_architect, domain_architect, data_architect, security_architect и devops_sre **избирательно** и по независимым задачам. Сравни разумные альтернативы (включая самый простой путь), оцени NFR/сложность/стоимость поддержки, опиши bounded contexts, интеграции/контракты, схему данных, observability, resiliency и security. Создай Mermaid C4-подобные диаграммы и ADRs в `deliverables/adr/`. Открытые дорогие решения вынеси на обсуждение. Не пиши код и не утверждай ADRs за меня.

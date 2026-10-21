@@ -1,0 +1,3 @@
+# Copy to Codex: Product and detailed specification
+
+Проверь стадию и gate по `workspace/STATUS.md`. Из подтверждённого discovery собери сначала `deliverables/03-product-specification.md` по `$product-specification` и `templates/03_PRODUCT_SPEC.md`; предложи мне согласовать scope. **Только после явного согласования scope** подготовь по `$technical-specification` `deliverables/04-detailed-srs.md` — подробное ТЗ с FR/NFR IDs, бизнес-правилами, состояниями, ролями, данными, интеграциями, безопасностью, исключениями и критериями приёмки. Отдельно проверь неполноту у BA/QA/Security и синхронизируй traceability. Если ещё есть P0 вопросы, сперва задай их. Не превращай предположения в утверждённые требования.

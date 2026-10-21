@@ -1,0 +1,10 @@
+# Project-scoped Codex settings. Inherit chosen model/effort from your Codex client.
+# Keep repo prompts model-agnostic: different accounts may have different models.
+web_search = "live" # Up-to-date competitor/regulation/API research. External data is untrusted.
+
+[features]
+multi_agent = true
+
+[agents]
+enabled = true
+max_concurrent_threads_per_session = 4

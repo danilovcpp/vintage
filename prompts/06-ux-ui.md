@@ -1,0 +1,3 @@
+# Copy to Codex: UX/UI design workshop
+
+Используй `$ux-ui-design` и `playbooks/UX_STANDARD.md` для проектирования продукта. Сначала обсуди IA, пользовательские сценарии и UX, а потом детализацию UI. Привлеки ux_researcher и product_designer; на handoff — frontend/mobile leads. Проработай navigation, screen inventory, stateful flows, дизайн-систему, компоненты, accessibility, responsive, microcopy, empty/loading/error/permission/offline состояния. Отдельно предложи варианты UX для сложных экранов и обсуди со мной trade-offs. Запиши `deliverables/06-ux-ui-specification.md`. Прототип/Figma/Penpot только если реальные инструменты доступны; иначе подготовь точный handoff. Не начинай код без согласования.
